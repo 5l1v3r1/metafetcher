@@ -1,0 +1,5 @@
+setuptools~=49.4.0
+filetype~=1.0.7
+fire~=0.3.1
+Pillow~=7.2.0
+rich~=5.1.2

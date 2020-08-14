@@ -1,0 +1,8 @@
+
+Jpython:S1481"+Remove the unused local variable "subject".(»²ã±8œÀ‡å¾.
+zpython:S1542"VRename function "checkFileType" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(®ˆµíûÿÿÿÿ8»¸Äã¾.
+Mpython:S1481")Remove the unused local variable "title".(¥ÁÃÿÿÿÿÿ8œÀ‡å¾.
+Opython:S1481"+Remove the unused local variable "creator".(ÿëªùşÿÿÿÿ8œÀ‡å¾.
+Wpython:S1481"3Remove the unused local variable "number_of_pages".(ª‰åƒıÿÿÿÿ8œÀ‡å¾.
+Npython:S1481"*Remove the unused local variable "author".(íêÔãüÿÿÿÿ8œÀ‡å¾.
+Ppython:S1481",Remove the unused local variable "producer".(Šëäøøÿÿÿÿ8œÀ‡å¾.
